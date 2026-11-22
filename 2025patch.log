@@ -1,0 +1,195 @@
+[10:39:05.728] [Config] C:\Games\client-2025\2025patch.ini
+[10:39:05.728] [Config] ApiHost=ns.recflare.net PhotonHost=photon.recflare.net PhotonPort=0 EnableConsole=false BlockDeadHosts=true SuppressDuidMismatch=true EnableTracing=false
+[10:39:05.728] [Config] VoiceKeyXml=(none -- Rec Room's key kept)
+[10:39:05.728] [Console] disabled (EnableConsole=false); diagnostics -> 2025patch.log only
+[10:39:05.728] [DllMain] attached, resolving + patching
+[10:39:05.728] [Resolve] il2cpp_string_new=0xA07D20 il2cpp_object_get_class=0x95BAD0 il2cpp_object_new=0xA07450 il2cpp_runtime_class_init=0x9CC5E0
+[10:39:06.077] [Patch] hooks installed: Referee x4, TLS, SendRequest, CheatMgr, DUID, ImgSig, Voice, getaddrinfo, GetAddrInfoW
+[10:39:06.077] [Patch] API host=ns.recflare.net  Photon=photon.recflare.net  port=(as supplied)
+[10:39:06.077] [DllMain] patch complete
+[10:39:09.377] [Voice] VoiceKeyXml not set -- handshake stays on Rec Room's key (server cannot read AT)
+[10:39:10.336] [DNS] statsigapi.net
+[10:39:10.336] [DNS] statsigapi.net (W)
+[10:39:10.563] [DNS] recroom-dataplane.rudderstack.com -> BLOCKED (dead telemetry host)
+[10:39:10.587] [DNS] config.uca.cloud.unity3d.com -> BLOCKED (dead telemetry host)
+[10:39:11.030] [DNS] cdp.cloud.unity3d.com -> BLOCKED (dead telemetry host)
+[10:39:12.280] [DNS] cdp.cloud.unity3d.com -> BLOCKED (dead telemetry host)
+[10:39:12.394] [DNS] ns.recflare.net
+[10:39:12.394] [DNS] ns.recflare.net (W)
+[10:39:12.414] [DNS] perf-events.cloud.unity3d.com -> BLOCKED (dead telemetry host)
+[10:39:12.416] [DNS] api.recflare.net
+[10:39:12.416] [DNS] api.recflare.net (W)
+[10:39:13.421] [DNS] cdp.cloud.unity3d.com -> BLOCKED (dead telemetry host)
+[10:39:13.707] [DNS] api.recflare.net
+[10:39:13.707] [DNS] api.recflare.net (W)
+[10:39:13.707] [DNS] api.recflare.net
+[10:39:13.707] [DNS] api.recflare.net (W)
+[10:39:16.869] [DNS] econ.recflare.net
+[10:39:16.869] [DNS] econ.recflare.net (W)
+[10:39:18.277] [DNS] auth.recflare.net
+[10:39:18.277] [DNS] auth.recflare.net (W)
+[10:39:20.047] [DNS] accounts.recflare.net
+[10:39:20.047] [DNS] accounts.recflare.net (W)
+[10:39:20.631] [DNS] notify.recflare.net
+[10:39:20.631] [DNS] notify.recflare.net (W)
+[10:39:20.651] [DNS] match.recflare.net
+[10:39:20.651] [DNS] match.recflare.net (W)
+[10:39:20.652] [DNS] match.recflare.net
+[10:39:20.652] [DNS] match.recflare.net (W)
+[10:39:20.709] [DNS] recroom-dataplane.rudderstack.com -> BLOCKED (dead telemetry host)
+[10:39:20.710] [DNS] playersettings.recflare.net
+[10:39:20.710] [DNS] playersettings.recflare.net (W)
+[10:39:20.727] [DNS] recroom-dataplane.rudderstack.com -> BLOCKED (dead telemetry host)
+[10:39:20.727] [DNS] perf-events.cloud.unity3d.com -> BLOCKED (dead telemetry host)
+[10:39:20.748] [DNS] recroom-dataplane.rudderstack.com -> BLOCKED (dead telemetry host)
+[10:39:20.748] [DNS] perf-events.cloud.unity3d.com -> BLOCKED (dead telemetry host)
+[10:39:20.771] [DNS] perf-events.cloud.unity3d.com -> BLOCKED (dead telemetry host)
+[10:39:20.771] [DNS] recroom-dataplane.rudderstack.com -> BLOCKED (dead telemetry host)
+[10:39:20.790] [DNS] recroom-dataplane.rudderstack.com -> BLOCKED (dead telemetry host)
+[10:39:20.791] [DNS] perf-events.cloud.unity3d.com -> BLOCKED (dead telemetry host)
+[10:39:20.814] [DNS] recroom-dataplane.rudderstack.com -> BLOCKED (dead telemetry host)
+[10:39:20.815] [DNS] perf-events.cloud.unity3d.com -> BLOCKED (dead telemetry host)
+[10:39:20.833] [DNS] recroom-dataplane.rudderstack.com -> BLOCKED (dead telemetry host)
+[10:39:20.834] [DNS] perf-events.cloud.unity3d.com -> BLOCKED (dead telemetry host)
+[10:39:20.853] [DNS] recroom-dataplane.rudderstack.com -> BLOCKED (dead telemetry host)
+[10:39:20.854] [DNS] perf-events.cloud.unity3d.com -> BLOCKED (dead telemetry host)
+[10:39:20.879] [DNS] perf-events.cloud.unity3d.com -> BLOCKED (dead telemetry host)
+[10:39:20.880] [DNS] recroom-dataplane.rudderstack.com -> BLOCKED (dead telemetry host)
+[10:39:20.904] [DNS] perf-events.cloud.unity3d.com -> BLOCKED (dead telemetry host)
+[10:39:20.904] [DNS] recroom-dataplane.rudderstack.com -> BLOCKED (dead telemetry host)
+[10:39:20.924] [DNS] recroom-dataplane.rudderstack.com -> BLOCKED (dead telemetry host)
+[10:39:20.925] [DNS] perf-events.cloud.unity3d.com -> BLOCKED (dead telemetry host)
+[10:39:20.943] [DNS] recroom-dataplane.rudderstack.com -> BLOCKED (dead telemetry host)
+[10:39:20.944] [DNS] perf-events.cloud.unity3d.com -> BLOCKED (dead telemetry host)
+[10:39:20.966] [DNS] perf-events.cloud.unity3d.com -> BLOCKED (dead telemetry host)
+[10:39:20.966] [DNS] recroom-dataplane.rudderstack.com -> BLOCKED (dead telemetry host)
+[10:39:20.985] [DNS] recroom-dataplane.rudderstack.com -> BLOCKED (dead telemetry host)
+[10:39:20.986] [DNS] perf-events.cloud.unity3d.com -> BLOCKED (dead telemetry host)
+[10:39:21.002] [DNS] recroom-dataplane.rudderstack.com -> BLOCKED (dead telemetry host)
+[10:39:21.003] [DNS] perf-events.cloud.unity3d.com -> BLOCKED (dead telemetry host)
+[10:39:21.089] [DNS] perf-events.cloud.unity3d.com -> BLOCKED (dead telemetry host)
+[10:39:21.093] [DNS] notify.recflare.net
+[10:39:21.093] [DNS] notify.recflare.net (W)
+[10:39:21.124] [DNS] platformnotifications.recflare.net
+[10:39:21.124] [DNS] platformnotifications.recflare.net (W)
+[10:39:21.242] [DNS] rooms.recflare.net
+[10:39:21.242] [DNS] rooms.recflare.net (W)
+[10:39:21.242] [Photon] getaddrinfo ns.exitgames.com -> photon.recflare.net
+[10:39:21.242] [DNS] photon.recflare.net (W)
+[10:39:21.837] [DNS] chat.recflare.net
+[10:39:21.837] [DNS] chat.recflare.net (W)
+[10:39:26.065] [DNS] clubs.recflare.net
+[10:39:26.065] [DNS] clubs.recflare.net (W)
+[10:39:26.069] [DNS] clubs.recflare.net
+[10:39:26.069] [DNS] clubs.recflare.net (W)
+[10:39:26.120] [DNS] chat.recflare.net
+[10:39:26.120] [DNS] chat.recflare.net (W)
+[10:39:26.492] [DNS] perf-events.cloud.unity3d.com -> BLOCKED (dead telemetry host)
+[10:39:26.495] [DNS] r2-cdn.recflare.net
+[10:39:26.495] [DNS] r2-cdn.recflare.net (W)
+[10:39:26.568] [DNS] r2-cdn.recflare.net
+[10:39:26.568] [DNS] r2-cdn.recflare.net (W)
+[10:39:26.659] [DNS] commerce.recflare.net
+[10:39:26.659] [DNS] commerce.recflare.net (W)
+[10:39:28.925] [DNS] datacollection.recflare.net
+[10:39:28.925] [DNS] datacollection.recflare.net (W)
+[10:39:35.615] [ImgSig] HPJKKCCECLH.BLDFMLMAFLH original=0 -> forcing TRUE
+[10:39:37.239] [DNS] localhost
+[10:39:37.239] [DNS] localhost (W)
+[10:39:37.242] [DNS] localhost
+[10:39:37.242] [DNS] localhost (W)
+[10:39:37.721] [DNS] cards.recflare.net
+[10:39:37.721] [DNS] cards.recflare.net (W)
+[10:39:37.727] [Photon] getaddrinfo ns.exitgames.com -> photon.recflare.net
+[10:39:37.727] [DNS] photon.recflare.net (W)
+[10:39:38.225] [DNS] econ.recflare.net
+[10:39:38.225] [DNS] econ.recflare.net (W)
+[10:39:38.325] [DNS] econ.recflare.net
+[10:39:38.325] [DNS] econ.recflare.net (W)
+[10:39:38.650] [DNS] econ.recflare.net
+[10:39:38.650] [DNS] econ.recflare.net (W)
+[10:39:39.075] [DNS] moderation.recflare.net
+[10:39:39.075] [DNS] moderation.recflare.net (W)
+[10:39:39.107] [DNS] perf-events.cloud.unity3d.com -> BLOCKED (dead telemetry host)
+[10:39:39.129] [DNS] discovery.recflare.net
+[10:39:39.129] [DNS] discovery.recflare.net (W)
+[10:39:39.167] [DNS] discovery.recflare.net
+[10:39:39.167] [DNS] discovery.recflare.net (W)
+[10:39:39.217] [DNS] discovery.recflare.net
+[10:39:39.217] [DNS] discovery.recflare.net (W)
+[10:39:39.519] [DNS] discovery.recflare.net
+[10:39:39.519] [DNS] discovery.recflare.net (W)
+[10:39:39.884] [DNS] api.recflare.net
+[10:39:39.884] [DNS] api.recflare.net (W)
+[10:39:41.783] [DNS] ai.recflare.net
+[10:39:41.783] [DNS] ai.recflare.net (W)
+[10:39:41.783] [DNS] ai.recflare.net
+[10:39:41.783] [DNS] ai.recflare.net (W)
+[10:39:41.783] [DNS] ai.recflare.net
+[10:39:41.783] [DNS] ai.recflare.net (W)
+[10:39:42.125] [DNS] lists.recflare.net
+[10:39:42.125] [DNS] lists.recflare.net (W)
+[10:39:42.774] [DNS] rooms.recflare.net
+[10:39:42.774] [DNS] rooms.recflare.net (W)
+[10:39:42.776] [DNS] perf-events.cloud.unity3d.com -> BLOCKED (dead telemetry host)
+[10:39:43.104] [DNS] perf-events.cloud.unity3d.com -> BLOCKED (dead telemetry host)
+[10:39:43.333] [DNS] cdp.cloud.unity3d.com -> BLOCKED (dead telemetry host)
+[10:39:50.437] [DNS] lists.recflare.net
+[10:39:50.437] [DNS] lists.recflare.net (W)
+[10:39:52.708] [DNS] img.recflare.net
+[10:39:52.708] [DNS] img.recflare.net
+[10:39:52.708] [DNS] img.recflare.net (W)
+[10:39:52.708] [DNS] img.recflare.net (W)
+[10:39:52.711] [DNS] img.recflare.net
+[10:39:52.711] [DNS] img.recflare.net (W)
+[10:39:52.711] [DNS] img.recflare.net
+[10:39:52.711] [DNS] img.recflare.net (W)
+[10:39:59.953] [DNS] chat.recflare.net
+[10:39:59.953] [DNS] chat.recflare.net (W)
+[10:40:00.025] [DNS] match.recflare.net
+[10:40:00.025] [DNS] match.recflare.net (W)
+[10:40:00.466] [DNS] perf-events.cloud.unity3d.com -> BLOCKED (dead telemetry host)
+[10:40:03.052] [DNS] perf-events.cloud.unity3d.com -> BLOCKED (dead telemetry host)
+[10:40:03.635] [DNS] playersettings.recflare.net
+[10:40:03.635] [DNS] playersettings.recflare.net (W)
+[10:40:04.166] [Photon] getaddrinfo ns.exitgames.com -> photon.recflare.net
+[10:40:04.166] [DNS] photon.recflare.net (W)
+[10:40:04.190] [DNS] econ.recflare.net
+[10:40:04.190] [DNS] econ.recflare.net (W)
+[10:40:07.572] [DNS] ai.recflare.net
+[10:40:07.572] [DNS] ai.recflare.net (W)
+[10:40:07.572] [DNS] ai.recflare.net
+[10:40:07.572] [DNS] ai.recflare.net (W)
+[10:40:07.572] [DNS] ai.recflare.net
+[10:40:07.572] [DNS] ai.recflare.net (W)
+[10:40:07.930] [DNS] econ.recflare.net
+[10:40:07.930] [DNS] econ.recflare.net (W)
+[10:40:07.950] [DNS] econ.recflare.net
+[10:40:07.950] [DNS] econ.recflare.net (W)
+[10:40:08.012] [DNS] perf-events.cloud.unity3d.com -> BLOCKED (dead telemetry host)
+[10:40:08.031] [DNS] perf-events.cloud.unity3d.com -> BLOCKED (dead telemetry host)
+[10:40:08.501] [DNS] perf-events.cloud.unity3d.com -> BLOCKED (dead telemetry host)
+[10:40:08.934] [DNS] perf-events.cloud.unity3d.com -> BLOCKED (dead telemetry host)
+[10:40:16.878] [DNS] perf-events.cloud.unity3d.com -> BLOCKED (dead telemetry host)
+[10:40:17.021] [DNS] statsigapi.net
+[10:40:17.021] [DNS] statsigapi.net (W)
+[10:40:32.984] [CheatMgr] module scan flagged "[0:2025Patch.dll]" -> FatalApplicationQuit SUPPRESSED
+[10:40:43.335] [DNS] cdp.cloud.unity3d.com -> BLOCKED (dead telemetry host)
+[10:40:49.359] [DNS] match.recflare.net
+[10:40:49.359] [DNS] match.recflare.net (W)
+[10:41:07.355] [CheatMgr] module scan flagged "[0:2025Patch.dll]" -> FatalApplicationQuit SUPPRESSED
+[10:41:32.826] [DNS] match.recflare.net
+[10:41:32.826] [DNS] match.recflare.net (W)
+[10:41:58.282] [DNS] match.recflare.net
+[10:41:58.282] [DNS] match.recflare.net (W)
+[10:42:20.507] [DNS] match.recflare.net
+[10:42:20.507] [DNS] match.recflare.net (W)
+[10:42:43.333] [DNS] cdp.cloud.unity3d.com -> BLOCKED (dead telemetry host)
+[10:42:49.674] [DNS] match.recflare.net
+[10:42:49.674] [DNS] match.recflare.net (W)
+[10:42:56.840] [DNS] playersettings.recflare.net
+[10:42:56.840] [DNS] playersettings.recflare.net (W)
+[10:42:58.179] [DNS] playersettings.recflare.net
+[10:42:58.179] [DNS] playersettings.recflare.net (W)
+[10:42:59.272] [DNS] playersettings.recflare.net
+[10:42:59.272] [DNS] playersettings.recflare.net (W)
